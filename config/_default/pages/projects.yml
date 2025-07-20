@@ -20,14 +20,3 @@ categories:
         icon: fas fa-user-secret
         description: blog防护
         url: "https://safeline.shogun.xin"
-  - name: 开源贡献
-    icon: fas fa-code-branch
-    sites:
-      - name: Project A
-        icon: fab fa-github
-        description: 开源项目贡献
-        url: "#"
-      - name: Project B
-        icon: fab fa-github
-        description: 开源项目贡献
-        url: "#" 
