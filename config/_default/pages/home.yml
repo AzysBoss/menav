@@ -40,6 +40,14 @@ categories:
         url: https://www.reddit.com
         icon: fab fa-reddit
         description: 社区讨论平台
+      - name: Cloudflare
+        url: https://www.cloudflare.com
+        icon: fas fa-cloud
+        description: CDN与安全服务
+      - name: 哔哩哔哩
+        url: https://www.bilibili.com
+        icon: fas fa-play-circle
+        description: 视频学习平台
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
