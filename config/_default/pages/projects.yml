@@ -8,18 +8,18 @@ categories:
   - name: 个人项目
     icon: fas fa-code
     sites:
-      - name: 个人导航站
-        icon: fas fa-compass
-        description: 一个简洁美观的个人导航页面
-        url: "#"
-      - name: Todo List
-        icon: fas fa-tasks
-        description: 基于Vue3的待办事项管理器
-        url: "#"
       - name: 个人博客
         icon: fas fa-blog
-        description: 使用Hexo搭建的技术博客
-        url: "#"
+        description: 博客展示页面
+        url: "https://blog.shogun.xin"
+      - name: 管理博客
+        icon: fas fa-edit
+        description: 管理博客页面
+        url: "https://admin.shogun.xin"
+      - name: 雷池waf
+        icon: fas fa-user-secret
+        description: blog防护
+        url: "https://safeline.shogun.xin"
   - name: 开源贡献
     icon: fas fa-code-branch
     sites:
